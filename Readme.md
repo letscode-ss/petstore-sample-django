@@ -40,11 +40,11 @@ Quit the server with CONTROL-C.
 ```
 
 ### Now app should be accessible on the browser
-
-![App home page](“docs/petstore.png”)
-![Admin page ](“docs/admin-console.png”)
-
-
+#### App home page (http://localhost:8000/)
+![App home page](docs/petstore.png)
+#### Admin page (http://localhost:8000/admin)
+![Admin page](docs/admin-console.png)
+Note: Admin page can be used to manage pets inventory. (default: admin/admin)
 
 ### Commands to create similar project
 ```
